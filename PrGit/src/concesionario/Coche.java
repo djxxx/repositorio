@@ -2,6 +2,8 @@ package concesionario;
 
 public class Coche {
 	
+	////Comentario nuevo en clase <<Coche>>”.
+	
 	String matricula;
 	String marca;
 	String modelo;

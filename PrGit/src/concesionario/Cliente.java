@@ -2,6 +2,8 @@ package concesionario;
 
 public class Cliente {
 	
+	////Comentario nuevo en clase <<Cliente>>”.
+	
 	String idCliente;
 	String nomCliente;
 	String apeCliente;

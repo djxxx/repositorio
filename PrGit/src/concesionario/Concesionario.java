@@ -1,6 +1,8 @@
 package concesionario;
 
 public class Concesionario {
+	
+	//Comentario nuevo en clase <<Concesionario>>”.
 
 	public String getNomConcesionario() {
 		return nomConcesionario;
